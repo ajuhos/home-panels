@@ -1,2 +1,2 @@
 # home-panels
-Totally local home control from your wall using any tablet for Homey Pro.
+Local home control from your wall using any tablet backed by Homey Pro.
